@@ -1,0 +1,8 @@
+@article{maslow1954personality,
+  title={Personality and motivation},
+  author={Maslow, Abraham H},
+  journal={Harlow, England: Longman},
+  volume={1},
+  pages={987},
+  year={1954}
+}
